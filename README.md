@@ -8,6 +8,11 @@ https://github.com/flosch/pongo2
 
 pongo2 is a Django-syntax like templating-language (official website).
 
+## Here is Compatible with pongo version 4
+ [Pongo4gin](https://github.com/stnc/pongo4gin) - pongo2 gin minimal framework stability renderer / Compatible with pongo version 4
+
+# please don't forget to give stars :)
+
 ## Installation  
 
 `go get "github.com/stnc/pongo2gin"`
